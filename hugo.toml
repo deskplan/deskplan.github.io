@@ -1,0 +1,14 @@
+baseURL = "https://deskplan.github.io/"
+languageCode = "fr-FR"
+title = "DeskPlan"
+enableRobotsTXT = true
+disableKinds = ["taxonomy", "term"]
+
+[params]
+  tagline = "Gestion du personnel et des bureaux des laboratoires"
+  description = "DeskPlan tient à jour qui travaille où dans les laboratoires : annuaire, plans de bureaux, arrivées et départs — multi-laboratoire, avec un client web et une application macOS à parité."
+  docsURL = "https://deskplan.github.io/docs/"
+  githubURL = "https://github.com/deskplan"
+
+[markup.goldmark.renderer]
+  unsafe = true
