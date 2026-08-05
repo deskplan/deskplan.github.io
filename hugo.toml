@@ -6,7 +6,7 @@ disableKinds = ["taxonomy", "term"]
 
 [params]
   tagline = "Gestion du personnel et des bureaux des laboratoires"
-  description = "DeskPlan tient à jour qui travaille où dans les laboratoires : annuaire, plans de bureaux, arrivées et départs — multi-laboratoire, avec un client web et une application macOS à parité."
+  description = "Application de gestion du personnel et des bureaux des laboratoires : annuaire, plans d'occupation, arrivées et départs. Multi-laboratoire, avec un client web et une application macOS."
   docsURL = "https://deskplan.github.io/docs/"
   githubURL = "https://github.com/deskplan"
 
