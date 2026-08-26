@@ -1,0 +1,6 @@
+# Hugo writes this while building; it is a local artefact, not source.
+.hugo_build.lock
+
+# Hugo build output.
+/public/
+/resources/_gen/
